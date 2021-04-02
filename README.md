@@ -5,7 +5,7 @@
 ![Final App](https://raw.githubusercontent.com/derekwebdevcom/TypeScript-GraphQL-JWT-Server/main/typeormm.png)
 # Created with TypeOrm CLI
 
-This is functioning backend server for authentication, cookies and refresh tokens
+This is a fully functioning backend server for authentication, cookies and refresh tokens
 
 git clone https://github.com/derekwebdevcom/TypeScript-GraphQL-JWT-Server.git
 
