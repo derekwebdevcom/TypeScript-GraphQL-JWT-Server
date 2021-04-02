@@ -9,7 +9,7 @@ This is a fully functioning backend server for authentication, cookies and refre
 
 git clone https://github.com/derekwebdevcom/TypeScript-GraphQL-JWT-Server.git
 
-# DIRECTIONS: Quick Start
+DIRECTIONS: Quick Start
 ===============================================================================
 cd server
 
