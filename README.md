@@ -9,11 +9,14 @@ This is a fully functioning backend server for authentication, cookies and refre
 
 git clone https://github.com/derekwebdevcom/TypeScript-GraphQL-JWT-Server.git
 
-yarn install
-
+# DIRECTIONS: Quick Start
+===============================================================================
 cd server
 
+yarn install
+
 yarn start 
+===============================================================================
 
 Project ports to http://localhost:4000/
 
