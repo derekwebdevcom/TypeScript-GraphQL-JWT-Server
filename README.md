@@ -1,4 +1,4 @@
-# GraphQL-TypeScript-JWT-Server
+# GraphQL-TypeScript-JWT-Server & PostgreSQL 
 
 ![Final App](https://raw.githubusercontent.com/derekwebdevcom/TypeScript-GraphQL-JWT-Server/main/graphql.png)
 ![Final App](https://raw.githubusercontent.com/derekwebdevcom/TypeScript-GraphQL-JWT-Server/main/jwt.png)
